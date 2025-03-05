@@ -1,0 +1,6 @@
+This is a demo to run ColdBrew for the example (6GPW, apo HSP90-alpha) shown in the main repo README.
+The input files are provided in this directory and the output files are in out_6GPW. When running, log output files are also saved, but are not provided in this demo.
+
+Here is the example command to run the demo (after properly setting environment variables, as instructed in main repo README):
+
+python /path/to/ColdBrew/run_coldbrew.py -pdb /path/to/ColdBrew/demo/6GPW.pdb -ccp4 /path/to/ColdBrew/demo/6GPW_2mFo-DFc_map.ccp4 -mtz /path/to/ColdBrew/demo/6GPW.mtz -o /path/to/ColdBrew/demo/out_6GPW
