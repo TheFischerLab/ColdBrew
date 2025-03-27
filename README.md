@@ -1,4 +1,4 @@
-OA# ColdBrew
+# ColdBrew
 
 <img src="figures/ColdBrew_logo.png" width="200" />
 
