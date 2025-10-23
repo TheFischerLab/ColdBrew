@@ -136,4 +136,4 @@ See the LICENSE file in the repository for more details.
 
 ## Citation
 
-TBD
+Seffernick, J. T. and Fischer, M. An experimental proxy of water displaceability for ligand discovery. *Nat. Methods*, **2025**, *22*, 1476–1485, doi: 10.1038/s41592-025-02724-0
